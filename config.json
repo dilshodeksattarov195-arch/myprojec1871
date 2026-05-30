@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssrocess",
+        "uuid": 4181685,
+        "checksum": "ln5oh4"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
